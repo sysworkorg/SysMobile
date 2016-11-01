@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\SysMobile\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea23fcd223f458240579f7f8aeca4d122b95d168">
+        <dex dex="C:\SysMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1188b7e3a4e448c6321856ba97157fb9addc1b1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\SysMobile\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\SysMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-19.1.0_ce9124331c72070866e1c11420e8a99c09f752aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\SysMobile\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b196af6a61974140e4eb92f7dd796209db638b72">
+        <dex dex="C:\SysMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_cc200b154adcd1f7003bf2982952b2e9be256fec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alberto\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\SysMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_2b958ee7ceac491674668701be2d8b578ee083cf\classes.dex" />
+    </item>
+
+</items>

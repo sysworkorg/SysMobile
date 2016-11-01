@@ -1,0 +1,125 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent" >
+
+    <CheckBox
+        android:id="@+id/chkArticulos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/chkClientes"
+        android:layout_below="@+id/chkClientes"
+        android:layout_marginTop="20dp"
+        android:clickable="false"
+        android:focusable="false"
+        android:text="@string/articulos" />
+
+    <CheckBox
+        android:id="@+id/chkClientes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/chkRubros"
+        android:layout_below="@+id/chkRubros"
+        android:layout_marginTop="16dp"
+        android:clickable="false"
+        android:focusable="false"
+        android:text="@string/clientes" />
+
+    <CheckBox
+        android:id="@+id/chkRubros"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/chkVendedores"
+        android:layout_below="@+id/chkVendedores"
+        android:layout_marginTop="15dp"
+        android:clickable="false"
+        android:focusable="false"
+        android:text="@string/rubros" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnCerrarSincronizacion"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="14dp"
+        android:text="@string/vacio" />
+
+    <TextView
+        android:id="@+id/txtResultadoClientes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="40dp"
+        android:layout_below="@+id/chkClientes"
+        android:text="@string/filler"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/txtResultadoArticulos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="40dp"
+        android:layout_below="@+id/chkArticulos"
+        android:text="@string/filler"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/txtResultadoVendedores"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="40dp"
+        android:layout_below="@+id/chkVendedores"
+        android:text="@string/filler"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/txtResultadoRubros"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="40dp"
+        android:layout_below="@+id/chkRubros"
+        android:text="@string/filler"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <ProgressBar
+        android:id="@+id/progressBar1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/btnCerrarSincronizacion" />
+
+    <CheckBox
+        android:id="@+id/chkVendedores"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView1"
+        android:layout_below="@+id/progressBar1"
+        android:layout_marginLeft="14dp"
+        android:clickable="false"
+        android:focusable="false"
+        android:text="@string/vendedores" />
+
+    <ImageView
+        android:contentDescription="@string/vacio"
+        android:id="@+id/imgSincronizar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/progressBar1"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/icono_sincronizar" />
+
+    <Button
+        android:id="@+id/btnCerrarSincronizacion"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtResultadoArticulos"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="@string/cerrar"
+        android:visibility="visible" />
+    
+</RelativeLayout>

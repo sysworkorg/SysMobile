@@ -1,0 +1,7 @@
+#Tue Nov 01 08:53:46 ART 2016
+base.0=C\:\\SysMobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_cc200b154adcd1f7003bf2982952b2e9be256fec
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\SysMobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1188b7e3a4e448c6321856ba97157fb9addc1b1a\\classes.dex
+base.1=C\:\\SysMobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1188b7e3a4e448c6321856ba97157fb9addc1b1a
+file.0=C\:\\SysMobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_cc200b154adcd1f7003bf2982952b2e9be256fec\\classes.dex

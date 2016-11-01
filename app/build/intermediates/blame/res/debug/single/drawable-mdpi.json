@@ -1,0 +1,486 @@
+[
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_commit_search_api_holo_dark.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_stacked_solid_light_holo.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\candado_grande.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\candado_grande.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_spinner_ab_pressed_holo_dark.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_transparent_dark_holo.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_go_search_api_holo_light.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_tab_unselected_pressed_holo.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\calendario_30_dias.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\calendario_30_dias.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\calendario_60_dias.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\calendario_60_dias.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\enviapedidospendientes.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\enviapedidospendientes.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_stacked_solid_dark_holo.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_spinner_ab_default_holo_light.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icono_pedido_item.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\icono_pedido_item.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_divider_holo_dark.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\enviapedidospendientes_resultado.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\enviapedidospendientes_resultado.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_clear_search_api_disabled_holo_light.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_tab_selected_focused_holo.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_cab_done_holo_light.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_spinner_ab_pressed_holo_light.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\simbolo_error.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\simbolo_error.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icono_ordenar_refresh.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\icono_ordenar_refresh.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_clear_search_api_holo_light.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\symbolo_ok.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\symbolo_ok.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\simbolo_exclamacion.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\simbolo_exclamacion.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icono_clientes.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\icono_clientes.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\sincronizacion2.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\sincronizacion2.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_voice_search_api_holo_light.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_textfield_search_right_selected_holo_light.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_bottom_solid_dark_holo.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icono_buscar_chico.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\icono_buscar_chico.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_go.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_go.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_solid_light_holo.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_textfield_search_right_default_holo_dark.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\logo_syswork_chico.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\logo_syswork_chico.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_menu_hardkey_panel_holo_dark.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_cab_background_top_holo_light.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icono_grabar_y_enviar.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\icono_grabar_y_enviar.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icono_cuenta_corriente.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\icono_cuenta_corriente.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_menu_dropdown_panel_holo_light.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icono_ordenar_codigo.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\icono_ordenar_codigo.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_clear_normal.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_commit_search_api_holo_light.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\cobranza.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\cobranza.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\deposito.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\deposito.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_stacked_transparent_light_holo.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\factura.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\factura.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_transparent_light_holo.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icono_agregar.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\icono_agregar.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_ab_back_holo_light.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_textfield_search_selected_holo_light.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_menu_share_holo_light.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icono_cancelar.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\icono_cancelar.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icono_configuracion_menu.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\icono_configuracion_menu.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_spinner_ab_default_holo_dark.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icono_configuracion.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\icono_configuracion.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_share_pack_holo_light.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_spinner_ab_focused_holo_light.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_bottom_solid_light_holo.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\enviar_y_facturar_fw.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\enviar_y_facturar_fw.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_stacked_transparent_dark_holo.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_bottom_transparent_dark_holo.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\consulta_stock.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\consulta_stock.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\candado.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\candado.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\calendario_consulta.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\calendario_consulta.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icono_ordenar_razon_social.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\icono_ordenar_razon_social.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icono_articulos_grande.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\icono_articulos_grande.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\splash.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_textfield_search_default_holo_dark.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_textfield_search_default_holo_light.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icono_ok.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\icono_ok.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_textfield_search_selected_holo_dark.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icono_ordenar_razon_social_dos.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\icono_ordenar_razon_social_dos.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icono_pedido_pendientes.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\icono_pedido_pendientes.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icono_articulos.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\icono_articulos.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icono_cliente_grande.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\icono_cliente_grande.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\simbolo_informacion.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\simbolo_informacion.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\simbolo_interrogacion.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\simbolo_interrogacion.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_menu_share_holo_dark.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_spinner_ab_focused_holo_dark.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icono_refresh.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\icono_refresh.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_search_api_holo_light.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\stock_comprometido.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\stock_comprometido.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\enviar_y_facturar.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\enviar_y_facturar.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_solid_dark_holo.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_clear_disabled.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_spinner_ab_disabled_holo_light.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_share_pack_holo_dark.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_menu_dropdown_panel_holo_dark.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icono_scan.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\icono_scan.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_spinner_ab_disabled_holo_dark.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_cab_background_top_holo_dark.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icono_buscar_24x24.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\icono_buscar_24x24.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_search.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\calendario_15_dias.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\calendario_15_dias.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_cab_background_bottom_holo_light.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_divider_holo_light.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icono_sincronizar.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\icono_sincronizar.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\splash_editable.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\splash_editable.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_menu_hardkey_panel_holo_light.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_menu_hardkey_panel_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icono_pedido.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\icono_pedido.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_bottom_transparent_light_holo.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_cab_background_bottom_holo_dark.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_cab_done_holo_dark.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_voice_search.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_textfield_search_right_selected_holo_dark.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_tab_selected_holo.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_tab_selected_pressed_holo.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icono_cliente_item.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\icono_cliente_item.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_ab_back_holo_dark.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_textfield_search_right_default_holo_light.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_focused_holo.9.png",
+        "source": "C:\\SysMobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icono_articulos_item.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\icono_articulos_item.png"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icono_grabar.png",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\drawable-mdpi\\icono_grabar.png"
+    }
+]

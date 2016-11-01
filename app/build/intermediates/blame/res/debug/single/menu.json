@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_carga_pedidos.xml",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\menu\\activity_carga_pedidos.xml"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_pmenu_principal.xml",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\menu\\activity_pmenu_principal.xml"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_consulta_clientes.xml",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\menu\\activity_consulta_clientes.xml"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_consulta_cta_cte.xml",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\menu\\activity_consulta_cta_cte.xml"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_lista_pedidos.xml",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\menu\\activity_lista_pedidos.xml"
+    },
+    {
+        "merged": "C:\\SysMobile\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_consulta_articulos.xml",
+        "source": "C:\\SysMobile\\app\\src\\main\\res\\menu\\activity_consulta_articulos.xml"
+    }
+]

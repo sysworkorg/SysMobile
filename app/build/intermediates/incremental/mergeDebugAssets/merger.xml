@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="19.1.0"><source path="C:\SysMobile\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\assets"/></dataSet><dataSet config="main"><source path="C:\SysMobile\app\src\main\assets"><file name="baseDeDatos.db3" path="C:\SysMobile\app\src\main\assets\baseDeDatos.db3"/></source><source path="C:\SysMobile\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\SysMobile\app\src\debug\assets"/></dataSet></merger>
